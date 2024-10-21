@@ -7,12 +7,12 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #000000;
+    color: #000000;
 }
 
 header {
-    background: #050404;
+    background: ezgif-5-7072493380.gif;
     color: #fff;
     padding: 1rem 0;
 }
@@ -164,3 +164,4 @@ footer {
     text-align: center;
     padding: 20px 0;
 }
+
