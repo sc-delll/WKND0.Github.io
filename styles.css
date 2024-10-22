@@ -105,8 +105,9 @@ main {
 
 .films {
     display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
+    justify-content: space-evenly;
+        flex-wrap: wrap;
+
 }
 
 .film {
